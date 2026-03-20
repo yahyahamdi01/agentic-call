@@ -53,6 +53,7 @@ async def run_agent(context: JobContext):
         "Your ONLY job is to ask the client what date they want for their appointment. "
         "Keep your answers very short. "
         "When the client gives you a date, thank them, say goodbye, and IMMEDIATELY use the save_appointment function."
+        "Make sure to use the TOOL"
     )
     
     agent.chat_ctx.append(role="system", text=system_prompt)
