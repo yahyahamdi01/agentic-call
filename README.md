@@ -30,7 +30,7 @@ LIVEKIT_API_KEY=votre_cle_api
 LIVEKIT_API_SECRET=votre_secret_api
 OPENAI_API_KEY=votre_cle_openai
 ```
-## LANCEMENT DU PROJET (HOW TO RUN)
+## LANCEMENT DU PROJET
 
 Le projet nécessite deux terminaux ouverts simultanément :
 
